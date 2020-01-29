@@ -219,7 +219,7 @@ def view_raw_data(df):
         elif user_input == input_list[0]:
             new_list = df.head(n).to_dict(orient='records')
             for item in new_list:
-                print(item,'\n')
+                print(item,'\n\n\n')
             n+=10
         else:
             break
