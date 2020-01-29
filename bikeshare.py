@@ -34,9 +34,9 @@ def get_filters():
 
     city_input = input("\nEnter the city you which to analyse\n")
     city = city_input.lower()
-    while city not in CITY_DATA:
-        city_input = input("\nInvaild input; Enter the city you which to analyse again\n")
-        city = city_input.lower()
+	while city := input("Please enter city among chicago, new york city, washington :").lower() not in city_list:
+        continue
+  
 
     # TO DO: get user input for month (all, january, february, ... , june)
     print("Enter -1 to apply no month filter to the data")
