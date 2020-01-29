@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+28/01/2020.
 
 ### Project Title
-Replace the Project Title
+Version Control with Git and Github
 
 ### Description
-Describe what your project is about and what it does
+This project is the last project in the udacity programming for data science
+nanodegree.
+It seeks to teach learners how to use Git version control and Github
+in their data science projects
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+new york city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The project was forked from
+https://github.com/okornoe/pdsnd_github.
 
