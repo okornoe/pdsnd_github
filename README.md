@@ -12,9 +12,7 @@ in their data science projects
 
 ### Files used
 bikeshare.py
-chicago.csv
-new york city.csv
-washington.csv
+
 
 ### Credits
 The project was forked from
