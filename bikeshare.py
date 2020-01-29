@@ -220,7 +220,7 @@ def view_raw_data(df):
             new_list = df.head(n).to_dict(orient='records')
             for item in new_list:
                 print(item,'\n')
-            n+=5
+            n+=10
         else:
             break
 
