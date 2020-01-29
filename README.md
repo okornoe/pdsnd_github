@@ -18,3 +18,5 @@ bikeshare.py
 The project was forked from
 https://github.com/okornoe/pdsnd_github.
 
+https://stackoverflow.com/questions/31324310/how-to-convert-rows-in-dataframe-in-python-to-dictionaries
+
