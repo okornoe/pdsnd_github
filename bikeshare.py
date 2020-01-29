@@ -207,6 +207,8 @@ def user_stats(df):
 
 def view_raw_data(df):
     
+	""" Asks users whether they want to view raw data of the file and
+	prints the first five rows of the data using a dictinary """
     input_list = ["yes", "no"]
     n =5
     
